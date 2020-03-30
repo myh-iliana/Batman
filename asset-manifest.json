@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Batman/static/css/main.26abbb4c.chunk.css",
+    "main.css": "/Batman/static/css/main.6b81ee41.chunk.css",
     "main.js": "/Batman/static/js/main.ec8b1e88.chunk.js",
     "main.js.map": "/Batman/static/js/main.ec8b1e88.chunk.js.map",
     "runtime-main.js": "/Batman/static/js/runtime-main.5760ec02.js",
@@ -9,10 +9,10 @@
     "static/js/2.c078b4f4.chunk.js": "/Batman/static/js/2.c078b4f4.chunk.js",
     "static/js/2.c078b4f4.chunk.js.map": "/Batman/static/js/2.c078b4f4.chunk.js.map",
     "index.html": "/Batman/index.html",
-    "precache-manifest.54cf4fb595596a268ee595fa4f30f5e6.js": "/Batman/precache-manifest.54cf4fb595596a268ee595fa4f30f5e6.js",
+    "precache-manifest.fda675139ee77f53803085dd214eb463.js": "/Batman/precache-manifest.fda675139ee77f53803085dd214eb463.js",
     "service-worker.js": "/Batman/service-worker.js",
     "static/css/2.ab8a0683.chunk.css.map": "/Batman/static/css/2.ab8a0683.chunk.css.map",
-    "static/css/main.26abbb4c.chunk.css.map": "/Batman/static/css/main.26abbb4c.chunk.css.map",
+    "static/css/main.6b81ee41.chunk.css.map": "/Batman/static/css/main.6b81ee41.chunk.css.map",
     "static/js/2.c078b4f4.chunk.js.LICENSE.txt": "/Batman/static/js/2.c078b4f4.chunk.js.LICENSE.txt",
     "static/media/ads.jpg": "/Batman/static/media/ads.b99d8590.jpg",
     "static/media/bookmark-filled.svg": "/Batman/static/media/bookmark-filled.ba3d29d6.svg",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.5760ec02.js",
     "static/css/2.ab8a0683.chunk.css",
     "static/js/2.c078b4f4.chunk.js",
-    "static/css/main.26abbb4c.chunk.css",
+    "static/css/main.6b81ee41.chunk.css",
     "static/js/main.ec8b1e88.chunk.js"
   ]
 }
