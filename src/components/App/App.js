@@ -7,6 +7,7 @@ import HeroContent from '../HeroContent/HeroContent';
 import AsideLeft from '../AsideLeft/AsideLeft';
 import Container from '../elements/Container/Container';
 import Nav from '../Nav/Nav';
+import VisibleContent from '../VisibleContent/VisibleContent';
 
 const App = () => {
   return (
@@ -23,6 +24,7 @@ const App = () => {
 
               <div className={s.info}>
                 <Nav />
+                <VisibleContent />
               </div>
             </div>
           </Container>

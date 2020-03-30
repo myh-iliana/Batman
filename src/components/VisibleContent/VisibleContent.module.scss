@@ -1,0 +1,14 @@
+.container {
+  flex: 0 1 515px;
+  margin: 0 20px 0 0;
+
+  div {
+    > * {
+      margin: 0 0 20px 0;
+    }
+  }
+}
+
+.bold_text {
+  margin: 40px 0 20px 0;
+}
