@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9bcacc381cf3c65867aca8a35deb472",
+    "revision": "a88dab4765e7dfe0dc8764d136d8331d",
     "url": "/Batman/index.html"
   },
   {
-    "revision": "11aade4816d722b17644",
+    "revision": "7553f4db706368819dae",
     "url": "/Batman/static/css/2.ab8a0683.chunk.css"
   },
   {
-    "revision": "1a714803188add1f3efc",
+    "revision": "4eb9fdeaa6ad12b2f8fd",
     "url": "/Batman/static/css/main.26abbb4c.chunk.css"
   },
   {
-    "revision": "11aade4816d722b17644",
-    "url": "/Batman/static/js/2.b971b21b.chunk.js"
+    "revision": "7553f4db706368819dae",
+    "url": "/Batman/static/js/2.c078b4f4.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Batman/static/js/2.b971b21b.chunk.js.LICENSE.txt"
+    "url": "/Batman/static/js/2.c078b4f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1a714803188add1f3efc",
-    "url": "/Batman/static/js/main.fedb5c1f.chunk.js"
+    "revision": "4eb9fdeaa6ad12b2f8fd",
+    "url": "/Batman/static/js/main.09867265.chunk.js"
   },
   {
     "revision": "93367c0b75bc3910c061",
