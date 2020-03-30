@@ -15,7 +15,11 @@ const HeroContent = () => {
           <div className={s.info}>
             <div className={s.tag}>Фильм</div>
             <div className={s.when}>США, 2021 год</div>
-            <a className={s.play_button}>
+            <a
+              data-fancybox
+              href="https://www.youtube.com/watch?v=Xo8i2ZDMlQg"
+              className={s.play_button}
+            >
               <img src={Play} alt="play button" />
               <p className="play-button__text">Смотреть трейлер</p>
             </a>
