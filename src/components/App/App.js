@@ -8,6 +8,7 @@ import AsideLeft from '../AsideLeft/AsideLeft';
 import Container from '../elements/Container/Container';
 import Nav from '../Nav/Nav';
 import VisibleContent from '../VisibleContent/VisibleContent';
+import AsideRight from '../AsideRight/AsideRight';
 
 const App = () => {
   return (
@@ -24,7 +25,11 @@ const App = () => {
 
               <div className={s.info}>
                 <Nav />
-                <VisibleContent />
+
+                <div className={s.wrapper}>
+                  <VisibleContent />
+                  <AsideRight />
+                </div>
               </div>
             </div>
           </Container>
