@@ -1,5 +1,5 @@
 import React from 'react';
-import { Route, Switch } from 'react-router-dom';
+import { Route, Switch, Redirect } from 'react-router-dom';
 
 import s from './VisibleContent.module.scss';
 import Text from '../elements/Text/Text';
@@ -7,6 +7,7 @@ import Text from '../elements/Text/Text';
 const VisibleContent = () => {
   return (
     <div className={s.container}>
+      <Route exact path="/" render={() => <Redirect to='/about' />} />
       <Switch>
         <Route path="/about" component={About} />
         <Route path="/reviews" component={Reviews} />
