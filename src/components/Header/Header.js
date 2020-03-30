@@ -19,8 +19,8 @@ const Header = () => {
             </button>
           </form>
           <div className={s.user}>
-            <img src={Bookmark} alt="" className={s.user__bookmark} />
-            <img src={Avatar} alt="" className={s.user__avatar} />
+            <img src={Bookmark} alt="bookmark" className={s.user__bookmark} />
+            <img src={Avatar} alt="user avatar" className={s.user__avatar} />
           </div>
         </div>
       </Container>
