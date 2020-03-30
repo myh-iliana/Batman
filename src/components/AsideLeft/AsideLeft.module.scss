@@ -30,3 +30,21 @@
     }
   }
 }
+
+@media screen and (max-width: 876px) {
+  .aside {
+    margin: 0 4% 0 4%;
+  }
+}
+
+@media screen and (max-width: 620px) {
+  .list {
+    display: none;
+  }
+
+  .aside {
+    button {
+      width: 100%;
+    }
+  }
+}

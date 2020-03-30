@@ -23,3 +23,9 @@
 .bold_text {
   line-height: 140%;
 }
+
+@media screen and (max-width: 620px) {
+  .aside {
+    align-self: center;
+  }
+}
