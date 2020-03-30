@@ -7,10 +7,10 @@ import Text from "../elements/Text/Text";
 const AsideLeft = () => {
   return (
     <aside className={s.aside}>
-      <img src={Cover} alt="film cover" />
+      <img src={Cover} alt="film cover" className='animated zoomInDown' />
       <button>Буду смотреть</button>
       <ul className={s.list}>
-        <li className={s.bold_text}><Text type='bold'>В главных ролях:</Text></li>
+        <li><Text type='bold'>В главных ролях:</Text></li>
         <li>
           <a href="#">Роберт Паттинсон</a>
         </li>

@@ -9,9 +9,9 @@ const HeroContent = () => {
   return (
     <div className={s.hero_content}>
       <Container>
-        <h1 className={`${s.title}`}>Бэтмен</h1>
-        <h3 className={`${s.subtitle}`}>The Batman</h3>
-        <div className={`${s.wrapper}`}>
+        <h1 className={`${s.title} animated bounceInRight`}>Бэтмен</h1>
+        <h3 className={`${s.subtitle} animated bounceInLeft`}>The Batman</h3>
+        <div className={`${s.wrapper} animated fadeInUp delay-1s`}>
           <div className={s.info}>
             <div className={s.tag}>Фильм</div>
             <div className={s.when}>США, 2021 год</div>

@@ -13,7 +13,7 @@ const Header = () => {
         <div className={s.content}>
           <div className={s.logo}>КиноПульс</div>
           <form action="" className={s.search}>
-            <input type="search" placeholder="Фильмы, сериалы, актеры" />
+            <input className='animated flipInX' type="search" placeholder="Фильмы, сериалы, актеры" />
             <button type="submit" className="search__button">
               <img src={SearchIcon} alt="search icon" />
             </button>

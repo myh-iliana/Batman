@@ -1,5 +1,6 @@
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
+import 'animate.css';
 
 import s from './App.module.scss';
 import Header from '../Header/Header';
