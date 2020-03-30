@@ -13,7 +13,7 @@ import AsideRight from '../AsideRight/AsideRight';
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/Batman'>
       <div>
         <Header />
 
