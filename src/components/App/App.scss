@@ -1,0 +1,9 @@
+/*--подключаю шрифты--*/
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,900&display=swap&subset=cyrillic-ext');
+@import url('https://fonts.googleapis.com/css?family=Roboto:700&display=swap&subset=cyrillic-ext');
+
+body {
+  background: url("../../img/main-bg.png") no-repeat top center, #0A090A;
+  font-family: Roboto, sans-serif;
+  color: #FFFFFF;
+}
